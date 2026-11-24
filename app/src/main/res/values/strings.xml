@@ -1,3 +1,21 @@
     <resources>
         <string name="app_name">Cadence</string>
+        <string name="mic_permission_denied">Mic: Permission denied</string>
+        <string name="voice_safe_phrase">Voice: Safe phrase (\"%1$s\") -> GREEN</string>
+        <string name="voice_distress_phrase">Voice: DISTRESS (\"%1$s\")</string>
+        <string name="disable_microphone">Disable Microphone</string>
+        <string name="enable_microphone">Enable Microphone</string>
+        <string name="voice_heard_phrase">Voice heard: \"%1$s\"</string>
+        <string name="mic_unsupported_buffer">Mic: Unsupported buffer</string>
+        <string name="mic_init_failed">Mic: Init failed</string>
+        <string name="mic_permission_required">Mic: Permission required</string>
+        <string name="mic_error_starting">Mic: Error starting</string>
+        <string name="mic_speech_unavailable">Mic: SpeechRecognizer unavailable</string>
+        <string name="mic_listening_distress">Mic: Listening for distress phrase…</string>
+        <string name="mic_voice_init_error">Mic: Voice init error</string>
+        <string name="mic_off">Mic: OFF</string>
+        <string name="cadence_ml_ready">Cadence ML: Ready</string>
+        <string name="cadence_ml_model_load_error">Cadence ML: Model load error</string>
+        <string name="cadence_ml_inference_error">Cadence ML: Inference error</string>
+        <string name="traffic_state_reset">Traffic state reset to GREEN</string>
     </resources>
